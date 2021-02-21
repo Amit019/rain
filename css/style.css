@@ -8269,6 +8269,8 @@ del {
     width:100px;
     height: 60px;
   }
+	.logo{
+	height:0.1px;}
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1600px){
@@ -8276,7 +8278,8 @@ del {
 padding-top: 150px;
     padding-bottom: 0px;
 }
+	
+	
 }
 
-.logo{
-	height:0.1px;}
+
