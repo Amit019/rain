@@ -8271,8 +8271,9 @@ del {
   }
 }
 
-@media only screen and (min-width: 1200px) and (max-width: 1600px)
+@media only screen and (min-width: 1200px) and (max-width: 1600px){
 	.section-padding20 {
 padding-top: 15px;
     padding-bottom: 10px;
+}
 }
